@@ -1,0 +1,17 @@
+Algorithm 
+
+Chapter 2
+Dichotomous search [.]
+Golden Section Search [.]
+Geometric Search [does not work] 
+Newtons Method [.] 
+
+Chapter 3
+Steepest Descent method [.]
+Conjugate gradient method [.] 
+Fletcher Reeves method 
+Stochastic gradient method 
+
+Chapter 4
+Gradient Projection Method [.]
+
